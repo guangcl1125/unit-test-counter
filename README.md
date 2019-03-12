@@ -2,7 +2,7 @@
 
 For practice test by jest and enzyme.
 
-reference from : https://medium.com/@franklion1227/unit-test-counter-f43995d6bfbd?fbclid=IwAR2t6jc_fl5KCGvwUAgyxxrYa7RtQKwWGu5AU-_UbsrzwPDbutoy90bJdGg
+reference from : https://medium.com/@franklion1227/unit-test-counter-f43995d6bfbd
 
 ## Available Scripts
 
