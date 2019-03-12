@@ -21,8 +21,8 @@ class Counter extends Component {
     return (
       <div className="counter-page">
         <h1 className="count">counter: { counter }</h1>
-        <button onClick={this.handleIncreaseOne}> + 1 </button>
-        <button onClick={this.handleDecreaseOne}> - 1 </button>
+        <button className="btn-inc" onClick={this.handleIncreaseOne}> + 1 </button>
+        <button className="btn-dec" onClick={this.handleDecreaseOne}> - 1 </button>
       </div>
     );
   }
